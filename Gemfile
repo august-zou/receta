@@ -9,6 +9,8 @@ gem 'jquery-rails'
 #gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
+gem 'bower-rails'
+
 group :test, :development do
   gem 'rspec'
   gem 'rspec-rails'
